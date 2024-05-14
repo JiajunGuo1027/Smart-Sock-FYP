@@ -13,3 +13,8 @@ Launched in partnership with Aintree Hospital to improve monitoring of patients 
     - **BluetoothManager.swift** - Manages interaction with Bluetooth hardware, including searching for devices, connecting to devices, and handling data from devices.
     - **Smart_Sock.xcdatamodeld** - Core Data's data model file, defines the model used by the application to store data.
   - Other files such as system files, test files, etc., are all located within the "Smart Sock APP" project.
+
+## Video presentation
+
+[click here to watch the Anklet Test video] (https://youtu.be/gibniL41s3s)
+[click here to watch the Smart Sock Test video] (https://youtu.be/yrWCAZGC_oE)
