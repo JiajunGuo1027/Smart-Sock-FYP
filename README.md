@@ -16,6 +16,6 @@ Launched in partnership with Aintree Hospital to improve monitoring of patients 
 
 ## Video presentation
 
-[click here to watch the Anklet Test video] (https://youtu.be/gibniL41s3s)
+[click this link to watch the Anklet Test video](https://youtu.be/gibniL41s3s)
 
-[click here to watch the Smart Sock Test video] (https://youtu.be/yrWCAZGC_oE)
+[click this link to watch the Smart Sock Test video](https://youtu.be/yrWCAZGC_oE)
